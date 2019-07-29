@@ -1,0 +1,5 @@
+[X-GNOME-Metatheme]
+Name=Matrix-gtk
+Type=X-GNOME-Metatheme
+Comment=GTK them to match the Matrix Plasma color scheme 
+Encoding=UTF-8
